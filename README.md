@@ -1,4 +1,4 @@
-# xBetter Capes
+# xBetter Capes ★
 **Authors:** SparkyNox & SPA4RKIEE_XD  
 **MC Version:** 1.21.4 – 1.21.11 (Fabric)  
 **Keybind:** G → Opens Cape GUI
